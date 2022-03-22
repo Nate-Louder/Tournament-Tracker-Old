@@ -44,6 +44,7 @@
             this.roundDropDown = new System.Windows.Forms.ComboBox();
             this.unplayedOnlyCheckBox = new System.Windows.Forms.CheckBox();
             this.matchupListBox = new System.Windows.Forms.ListBox();
+            this.scoreButton = new System.Windows.Forms.CommonButton();
 
             //
             //Label: Header
