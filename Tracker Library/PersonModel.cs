@@ -32,7 +32,7 @@ namespace TrackerLibrary
         public string EmailAddress { get; set; }
 
         /// <summary>
-        /// Represents the person's phone number2
+        /// Represents the person's phone number3
         /// </summary>
         /// <value></value>
         public string PhoneNumber { get; set; }
