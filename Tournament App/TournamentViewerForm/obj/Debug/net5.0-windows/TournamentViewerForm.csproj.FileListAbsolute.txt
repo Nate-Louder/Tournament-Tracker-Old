@@ -1,0 +1,16 @@
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\TournamentViewerForm.exe
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\TournamentViewerForm.deps.json
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\TournamentViewerForm.runtimeconfig.json
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\TournamentViewerForm.runtimeconfig.dev.json
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\TournamentViewerForm.dll
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\ref\TournamentViewerForm.dll
+C:\Projects\Tournament App\TournamentViewerForm\bin\Debug\net5.0-windows\TournamentViewerForm.pdb
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.csproj.AssemblyReference.cache
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.AssemblyInfoInputs.cache
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.AssemblyInfo.cs
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.csproj.CoreCompileInputs.cache
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.dll
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\ref\TournamentViewerForm.dll
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.pdb
+C:\Projects\Tournament App\TournamentViewerForm\obj\Debug\net5.0-windows\TournamentViewerForm.genruntimeconfig.cache
