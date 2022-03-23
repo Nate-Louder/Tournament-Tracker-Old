@@ -1,0 +1,16 @@
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.csproj.AssemblyReference.cache
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.AssemblyInfoInputs.cache
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.AssemblyInfo.cs
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.csproj.CoreCompileInputs.cache
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\CreateTournamentForm.exe
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\CreateTournamentForm.deps.json
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\CreateTournamentForm.runtimeconfig.json
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\CreateTournamentForm.runtimeconfig.dev.json
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\CreateTournamentForm.dll
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\ref\CreateTournamentForm.dll
+C:\Projects\Tournament App\CreateTournamentForm\bin\Debug\net5.0-windows\CreateTournamentForm.pdb
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.dll
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\ref\CreateTournamentForm.dll
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.pdb
+C:\Projects\Tournament App\CreateTournamentForm\obj\Debug\net5.0-windows\CreateTournamentForm.genruntimeconfig.cache
