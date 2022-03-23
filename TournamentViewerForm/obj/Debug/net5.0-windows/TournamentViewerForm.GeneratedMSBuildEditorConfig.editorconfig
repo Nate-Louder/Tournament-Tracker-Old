@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TournamentViewerForm
-build_property.ProjectDir = c:\Projects\Tournament App\Tournament App\TournamentViewerForm\
+build_property.ProjectDir = C:\Projects\Tournament App\TournamentViewerForm\
