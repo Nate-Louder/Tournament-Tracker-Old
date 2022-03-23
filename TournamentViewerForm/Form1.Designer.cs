@@ -180,12 +180,16 @@
             //
             this.scoreButton.Name = "scoreButton";
             this.scoreButton.Text = "Score";
-            this.scoreButton.Font = new System.Drawing.Font("Segoe UI", 20);
+            this.scoreButton.Font = new System.Drawing.Font("Segoe UI", 16, System.Drawing.FontStyle.Bold);
             this.scoreButton.Location = new System.Drawing.Point(585, 290);
             this.scoreButton.Size = new System.Drawing.Size(125, 50);
             this.scoreButton.BackColor = System.Drawing.Color.FromArgb(51, 153, 255);
             this.scoreButton.ForeColor = System.Drawing.Color.White;
             this.scoreButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.scoreButton.FlatAppearance.BorderSize = 0;
+            this.scoreButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(250, 191, 102);
+            this.scoreButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(230, 171, 82);
+
 
             //
             // Form 1
