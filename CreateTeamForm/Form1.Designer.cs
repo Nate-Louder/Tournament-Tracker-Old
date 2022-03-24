@@ -295,7 +295,7 @@
             this.Controls.Add(this.removeMemberButton);
             this.Controls.Add(this.createTeamButton);
             this.Controls.Add(this.addNewMemberGroupBox);
-            this.ClientSize = new System.Drawing.Size(1100, 800);
+            this.ClientSize = new System.Drawing.Size(1050, 790);
             this.Name = "CreateTeamForm";
             this.Text = "Create New Team";
 
