@@ -247,6 +247,16 @@
             this.createTournamentButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(133, 255, 133);
             this.createTournamentButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(86, 196, 86);
 
+            //
+            // Link: Create Team
+            //
+            this.newTeamLink.Name = "newTeamLink";
+            this.newTeamLink.Text = "Create New";
+            this.newTeamLink.Location = new System.Drawing.Point(285, 370);
+            this.newTeamLink.Size = new System.Drawing.Size(130, 30);
+            this.newTeamLink.Font = new System.Drawing.Font("Segoe UI", 15);
+            this.newTeamLink.ForeColor = System.Drawing.Color.FromArgb(0, 0, 25);
+
 
             /// <summary>
             /// These are the settings for the form itself.
