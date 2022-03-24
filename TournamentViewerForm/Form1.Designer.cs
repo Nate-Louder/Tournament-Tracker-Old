@@ -41,7 +41,7 @@
             this.teamTwoScoreLabel = new System.Windows.Forms.Label();
             this.teamTwoScoreTextBox = new System.Windows.Forms.TextBox();
             this.teamTwoName = new System.Windows.Forms.Label();
-            this.roundDropDown = new System.Windows.Forms.ComboBox();
+            this.selectRoundDropDown = new System.Windows.Forms.ComboBox();
             this.unplayedOnlyCheckBox = new System.Windows.Forms.CheckBox();
             this.matchupListBox = new System.Windows.Forms.ListBox();
             this.scoreButton = new System.Windows.Forms.Button();
@@ -89,7 +89,7 @@
             //
             // Label: Team One Name
             //
-            this.teamOneName.Name = "teamOneName";
+            this.teamOneName.Name = "teamOneNameLabel";
             this.teamOneName.Text = "<team one>";
             this.teamOneName.Font = new System.Drawing.Font("Segoe UI", 20); //Displayed Text Font and Size
             this.teamOneName.Location = new System.Drawing.Point(364, 180);
@@ -109,7 +109,7 @@
             //
             // Label: Team Two Name
             //
-            this.teamTwoName.Name = "teamTwoName";
+            this.teamTwoName.Name = "teamTwoNameLabel";
             this.teamTwoName.Text = "<team two>";
             this.teamTwoName.Font = new System.Drawing.Font("Segoe UI", 20); //Displayed Text Font and Size
             this.teamTwoName.Location = new System.Drawing.Point(364, 310);
@@ -147,13 +147,13 @@
             //
             // Combo Box: Round Drop Down
             //
-            this.roundDropDown.Name = "roundDropDown";
-            this.roundDropDown.Font = new System.Drawing.Font("Segoe UI", 15);
-            this.roundDropDown.DropDownWidth = 190;
-            this.roundDropDown.DropDownHeight = 106;
-            this.roundDropDown.Size = new System.Drawing.Size(190, 12);
-            this.roundDropDown.Location = new System.Drawing.Point(130, 100);
-            this.roundDropDown.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDown;
+            this.selectRoundDropDown.Name = "roundDropDown";
+            this.selectRoundDropDown.Font = new System.Drawing.Font("Segoe UI", 15);
+            this.selectRoundDropDown.DropDownWidth = 190;
+            this.selectRoundDropDown.DropDownHeight = 106;
+            this.selectRoundDropDown.Size = new System.Drawing.Size(190, 12);
+            this.selectRoundDropDown.Location = new System.Drawing.Point(130, 100);
+            this.selectRoundDropDown.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDown;
 
             //
             // Check Box: Unplayed Games
@@ -191,9 +191,10 @@
             this.scoreButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(230, 171, 82);
 
 
-            //
-            // Form 1
-            //
+            /// <summary>
+            /// These are the settings for the form itself.
+            /// </summary>
+            /// <returns></returns>
             this.BackColor = System.Drawing.Color.White;
             this.components = new System.ComponentModel.Container();
             this.Controls.Add(this.headerLabel);
@@ -206,7 +207,7 @@
             this.Controls.Add(this.teamTwoScoreLabel);
             this.Controls.Add(this.teamOneScoreTextBox);
             this.Controls.Add(this.teamTwoScoreTextBox);
-            this.Controls.Add(this.roundDropDown);
+            this.Controls.Add(this.selectRoundDropDown);
             this.Controls.Add(this.unplayedOnlyCheckBox);
             this.Controls.Add(this.matchupListBox);
             this.Controls.Add(this.scoreButton);
@@ -230,7 +231,7 @@
         private System.Windows.Forms.TextBox teamOneScoreTextBox;
         private System.Windows.Forms.TextBox teamTwoScoreTextBox;
         private System.Windows.Forms.CheckBox unplayedOnlyCheckBox;
-        private System.Windows.Forms.ComboBox roundDropDown;
+        private System.Windows.Forms.ComboBox selectRoundDropDown;
         private System.Windows.Forms.ListBox matchupListBox;
         private System.Windows.Forms.Button scoreButton;
     }

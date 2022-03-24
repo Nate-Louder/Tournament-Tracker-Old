@@ -1,0 +1,16 @@
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\CreatePrizeForm.exe
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\CreatePrizeForm.deps.json
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\CreatePrizeForm.runtimeconfig.json
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\CreatePrizeForm.runtimeconfig.dev.json
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\CreatePrizeForm.dll
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\ref\CreatePrizeForm.dll
+C:\Projects\Tournament App\CreatePrizeForm\bin\Debug\net5.0-windows\CreatePrizeForm.pdb
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.csproj.AssemblyReference.cache
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.AssemblyInfoInputs.cache
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.AssemblyInfo.cs
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.csproj.CoreCompileInputs.cache
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.dll
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\ref\CreatePrizeForm.dll
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.pdb
+C:\Projects\Tournament App\CreatePrizeForm\obj\Debug\net5.0-windows\CreatePrizeForm.genruntimeconfig.cache
